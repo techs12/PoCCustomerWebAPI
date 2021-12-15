@@ -15,7 +15,7 @@ Tech:
 4. Basic XUnit tests
 5. Swagger / OpenAPI support
 
-# POC Customer 
+
 
 
 # YAML-defined CI/CD for ASP .NET Core
